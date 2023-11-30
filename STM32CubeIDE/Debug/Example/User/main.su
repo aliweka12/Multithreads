@@ -1,0 +1,5 @@
+C:/Users/alile/Desktop/FinalProject/FreeRTOS_ThreadCreation/Src/main.c:36:5:int main()	56	static
+C:/Users/alile/Desktop/FinalProject/FreeRTOS_ThreadCreation/Src/main.c:56:6:static void LEDControl::Thread1Function(const void*)	24	static
+C:/Users/alile/Desktop/FinalProject/FreeRTOS_ThreadCreation/Src/main.c:84:6:static void LEDControl::Thread2Function(const void*)	24	static
+C:/Users/alile/Desktop/FinalProject/FreeRTOS_ThreadCreation/Src/main.c:104:6:static void LEDControl::ConfigureSystemClock()	96	static
+C:/Users/alile/Desktop/FinalProject/FreeRTOS_ThreadCreation/Src/main.c:144:6:static void LEDControl::HandleError()	8	static
