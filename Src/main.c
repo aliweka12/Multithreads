@@ -1,3 +1,6 @@
+/**
+ * This program runs 2 threads to toggle LEDS.
+ */
 #include "main.h"
 #include "cmsis_os.h"
 
